@@ -1,5 +1,5 @@
 # Instagram User Analytics (SQL)
-
+ 
 A MySQL analysis of a synthetic Instagram clone database (`ig_clone`). It answers 7 business questions from marketing and investor teams.
 The work covers loyal users, inactive users, a photo contest, hashtags, ad timing, engagement and bot detection.
 
